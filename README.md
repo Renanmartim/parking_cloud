@@ -1,5 +1,9 @@
 <h1>Parking Cloud</h1>
 
- 
+<p>This API is intended to develop a system for a parking lot.</p>
 
-<p>Esta API tem como intuito desenvolver um sistema para um estacionamento</p>
+<h2>How it works</h2>
+
+<p></p>
+
+<h2>How to use</h2>
